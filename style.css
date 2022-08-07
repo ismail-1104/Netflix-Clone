@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: #000000;
+    color: #999999;
+}
+
+h1{
+    color:#fff;
+    font-weight: bold;
+}
+
+.dflex{
+    display: flex;
+    height: 90px;
+}
+
+.logo{
+    margin: 1px;
+    width: 200px;
+    height: 90px;
+}
+
+.btn{
+    background-color: #e50914;
+    color: #fff;
+    width: 100px;
+    height: 40px;
+}
